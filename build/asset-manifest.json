@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.655492ce.css",
+    "main.js": "/static/js/main.20680092.js",
+    "static/media/picture1.jpg": "/static/media/picture1.08ec31aac13855d29269.jpg",
+    "static/media/picture3.jpg": "/static/media/picture3.f72f879625a8d39c8bb1.jpg",
+    "static/media/picture6.jpg": "/static/media/picture6.bb5028c52a493570fb51.jpg",
+    "static/media/picture2.jpg": "/static/media/picture2.4cd168cb667876dbd73b.jpg",
+    "static/media/cic_insurance.png": "/static/media/cic_insurance.ece940e0722a77ec4c6e.png",
+    "static/media/seniors.png": "/static/media/seniors.1310d46e86d9f6449796.png",
+    "static/media/policy.png": "/static/media/policy.ef4230025171d28e9238.png",
+    "static/media/family.png": "/static/media/family.1de99fefe7daad111440.png",
+    "static/media/picture5.jpg": "/static/media/picture5.7697d8f03edb4fc9ed15.jpg",
+    "static/media/golf.png": "/static/media/golf.7bfbc0fb4910335df58a.png",
+    "static/media/quotation.png": "/static/media/quotation.8942a32fdf1faa361929.png",
+    "static/media/engine.png": "/static/media/engine.d9e72470c77fac7fea86.png",
+    "static/media/education.png": "/static/media/education.1c5b5727bab5eb613149.png",
+    "static/media/picture4.jpg": "/static/media/picture4.c927f09c8ea260203dea.jpg",
+    "static/media/anchor.png": "/static/media/anchor.b2a72a5b75203048662b.png",
+    "index.html": "/index.html",
+    "main.655492ce.css.map": "/static/css/main.655492ce.css.map",
+    "main.20680092.js.map": "/static/js/main.20680092.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.655492ce.css",
+    "static/js/main.20680092.js"
+  ]
+}

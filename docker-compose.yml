@@ -1,0 +1,6 @@
+services:
+  ciceasybimamain:
+    image: ciceasybimamain
+    build:
+      context: .
+      dockerfile: ./Dockerfile
